@@ -1,0 +1,42 @@
+{
+  "cars": [
+    {
+      "make": "Subaru",
+      "model": "WRX STi",
+      "year": "2015",
+      "price": "30000",
+      "description": "Subaru WRX STI package in immaculate condition.  Less than 60k miles on the chasis and show-room quality interior. Make this all-wheel drive road warrior yours today!"
+    }, {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    }, {
+      "make": "Nissan",
+      "model": "300zx",
+      "year": "1995",
+      "price": "7000",
+      "description": "This is a show-room quality classic Z ready for the road!  Fully loaded interior with bose speakers"
+    }, {
+      "make": "Toyota",
+      "model": "Supra",
+      "year": "1998",
+      "price": "15000",
+      "description": "Take home this rare end-run model today!  With less than 100k miles it's sure to turn any heads in the tuner world"
+    }, {
+      "make": "Chevrolet",
+      "model": "Chevelle",
+      "year": "1972",
+      "price": "30000",
+      "description": "It's here! The '72 classic muscle everyone's been waiting for - new exterior paint and updated leather interior"
+    }, {
+      "make": "Jeep",
+      "model": "Wrangler",
+      "year": "2014",
+      "price": "25000",
+      "description": "Fun in the sun with fully upgraded audio.  Like to hike, camp, and all things outdoor?  Jump in and let this vehicle take you to your dreams!"
+    }
+
+  ]
+}
