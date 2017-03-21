@@ -1,0 +1,16 @@
+.jumbotron {
+	background-image: url("../images/car-background-2.jpg");
+	color: white;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 0px;
+}
+.header-container {
+	height: 250px;
+}
+.navbar {
+	border-radius: 0px;
+}
+.thumbnail {
+	border: 1px solid black;
+}
