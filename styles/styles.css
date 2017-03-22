@@ -13,4 +13,9 @@
 }
 .thumbnail {
 	border: 1px solid black;
+	height: 500px;
+}
+.selected {
+	border: 2px solid black;
+	background-color: #ced0d1;
 }
