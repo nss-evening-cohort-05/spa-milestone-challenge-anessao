@@ -5,14 +5,14 @@ function populatePage (data) {
     var carInventoryDiv = document.getElementById("car-inventory");
     var inventoryString = "";
 	    for (let x = 0; x < data[0].cars.length; x++) {
-	  	inventoryString += `<div class="col-sm-6 col-md-4 carInfo" id="carInfo">`
+	  	inventoryString += `<div class="col-sm-6 col-md-4 carInfo" class="carInfo">`
 		inventoryString += `<div class="thumbnail">`
 		inventoryString += `<img src="${data[0].cars[x].url}" alt="...">`
 		inventoryString += `<div class="caption">`
 		inventoryString += `<h3>${data[0].cars[x].make} ${data[0].cars[x].model}</h3>`
 		inventoryString += `<h4>Year: ${data[0].cars[x].year}</h4>`
 		inventoryString += `<h4>Price: ${data[0].cars[x].price}</h4>`
-		inventoryString += `<p>${data[0].cars[x].description}</p>`
+		inventoryString += `<p id="description">${data[0].cars[x].description}</p>`
 		inventoryString += `</div></div></div>`;
   	};
   	//SET DOM ELEMENT WITH STRING BUILT FROM FOR-LOOP
