@@ -1,4 +1,4 @@
-# Single Page Applications Milestone Challenge# WYSIWYG ASSIGNMENT
+# Single Page Applications Milestone Challenge
 
 ##### Working with DOM Handlers, Event Listeners, and XHRequests | Advanced
 ##### Focus on functionality -> styling using bootstrap
