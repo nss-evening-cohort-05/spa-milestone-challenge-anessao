@@ -8,8 +8,6 @@ var CarLot = (function(oldCarLot){
 	oldCarLot.activateEvents = function (){
 		var carInventoryDiv = document.getElementById("car-inventory");
 
-
-		console.log("activateEvents function works");
 		carInventoryDiv.addEventListener("click", CarLot.clearClassSelected);
 		window.addEventListener("click",  CarLot.setClassSelected);
 		userInput.addEventListener("keyup", CarLot.editText);

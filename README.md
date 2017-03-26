@@ -48,7 +48,7 @@ inventory.push(newData); //BUILDING ARRAY OF JSON DATA
 ```
 
 #### SCREENSHOT AND COMPARISONS OF BEFORE/AFTER BUTTON CLICKS
-![before and after button clicks](https://raw.githubusercontent.com/anessao/wysiwyg/wysiwyg/screenshots.png)
+![demo front page screenshot](https://raw.githubusercontent.com/nss-evening-cohort-05/spa-milestone-challenge-anessao/challenge/images/Screen%20Shot%202017-03-26%20at%201.07.58%20AM.png)
 
 #### TECHNOLOGIES USED
 - JavaScript
