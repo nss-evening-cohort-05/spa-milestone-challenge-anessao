@@ -4,7 +4,6 @@
 ##### Focus on functionality -> styling using bootstrap
 
 #### ASSIGNMENT PARAMETERS:
-# Single Page Applications Milestone Challenge
 
 ## Instructions
 
