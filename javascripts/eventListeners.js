@@ -1,0 +1,18 @@
+//******************************************
+//THIS FUNCTION AUGMENTOR SHOULD ACTIVATE
+//ALL EVENT HANDLERS FOR DOM FUNCTIONALITY
+//******************************************
+
+var CarLot = (function(oldCarLot){
+	
+	oldCarLot.activateEvents = function (){
+		var carInventoryDiv = document.getElementById("car-inventory");
+
+		carInventoryDiv.addEventListener("click", CarLot.clearClassSelected);
+		window.addEventListener("click",  CarLot.setClassSelected);
+		userInput.addEventListener("keyup", CarLot.editText);
+	}
+
+	return oldCarLot;
+
+})(CarLot || {});
